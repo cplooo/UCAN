@@ -9,3 +9,8 @@ mlxtend
 ckiptagger
 openpyxl
 plotly
+
+
+
+
+
