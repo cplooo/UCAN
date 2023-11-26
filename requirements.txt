@@ -8,3 +8,4 @@ wordcloud
 mlxtend
 ckiptagger
 openpyxl
+plotly
