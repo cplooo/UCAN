@@ -23,8 +23,8 @@ stc.html(html_temp)
 
 
 ###### (1) 讀取 excel or pkl檔案:    
-df_ucan100To112_IndividualDepartmentCollegeSchool = pd.read_pickle('df_ucan100To112_IndividualDepartmentCollegeSchool.pkl')  ## [28741 rows x 44 columns]
-#df_ucan100To112_IndividualDepartmentCollegeSchool = pd.read_excel('df_ucan100To112_IndividualDepartmentCollegeSchool.xlsx')  ## [28741 rows x 44 columns]
+#df_ucan100To112_IndividualDepartmentCollegeSchool = pd.read_pickle('df_ucan100To112_IndividualDepartmentCollegeSchool.pkl')  ## [28741 rows x 44 columns]
+df_ucan100To112_IndividualDepartmentCollegeSchool = pd.read_excel('df_ucan100To112_IndividualDepartmentCollegeSchool.xlsx')  ## [28741 rows x 44 columns]
 
 
 ###### (2) 挑選特定系所 各別共通職能落後名單 (低於系院校平均值) 
